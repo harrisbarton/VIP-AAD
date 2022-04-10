@@ -1,0 +1,3 @@
+[submodule "MedicalDataAugmentationTool-VerSe"]
+	path = MedicalDataAugmentationTool-VerSe
+	url = https://github.com/harrisbarton/MedicalDataAugmentationTool-VerSe.git
