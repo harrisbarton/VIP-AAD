@@ -1,3 +1,6 @@
 [submodule "MedicalDataAugmentationTool-VerSe"]
 	path = MedicalDataAugmentationTool-VerSe
 	url = https://github.com/harrisbarton/MedicalDataAugmentationTool-VerSe.git
+[submodule "MedicalDataAugmentationTool"]
+	path = MedicalDataAugmentationTool
+	url = https://github.com/harrisbarton/MedicalDataAugmentationTool.git
